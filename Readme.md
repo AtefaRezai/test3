@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
+ HEAD
+
 gkjdlkfjlgi
 fjk;daflk
 dlk;fjdlj
-dkjf;lsa
->>>>>>> feature-james-login
+dkjf;lsa feature-james-login
